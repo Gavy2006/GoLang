@@ -1,10 +1,8 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func printMsg() {
-	fmt.Println("hello")
+// func printMsg() {
+// 	fmt.Println("hello")
 
-	fmt.Println(Public)
-
-}
+// }
