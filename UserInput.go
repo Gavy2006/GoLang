@@ -20,4 +20,4 @@ package main
 
 // 	fmt.Println("Hello Mr", name)
 
-// }
+//go run . }
